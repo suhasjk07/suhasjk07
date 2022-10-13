@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhasjk07
 - 👀 I’m interested in Ai in cyber security
 - 🌱 I’m currently learning python crash course
-- 💞️ I’m looking to collaborate on (no yet ready for it).
+- 💞️ I’m looking to collaborate on (not yet ready for it).
 - 📫 Reach me on linked in (suhasjk07)
