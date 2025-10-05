@@ -125,7 +125,7 @@ You can show auto-updating badges using a simple workflow (or update manually). 
 GitHub can't run JS, so we use an animated GIF or readme-typing SVG. Example (typing animation already at top). Below is a retro terminal GIF:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6rJ1a2P8a9l0U/giphy.gif" alt="terminal" width="720"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="terminal" width="400"/>
 </p>
 
 ---
