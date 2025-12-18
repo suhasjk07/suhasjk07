@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00FFFF&center=true&vCenter=true&width=760&lines=Network+Engineer+%7C+AI+%26+Cybersecurity;CCNA+%7C+CCNP+%7C+CCIE;VPN+%7C+NextGen+Firewall+%7C+SD-WAN;NOC+%7C+Automation+%7C+Threat+Hunting" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00FFFF&center=true&vCenter=true&width=760&lines=Network+Security+Engineer+%7C+AI+%26+Cybersecurity;CCNA+%7C+CCNP+%7C+CCIE;VPN+%7C+NextGen+Firewall+%7C+SD-WAN;SOC+%7C+Cloud+Security+%7C+Automation+%7C+Threat+Hunting" alt="typing"/>
 </p>
 
 ---
