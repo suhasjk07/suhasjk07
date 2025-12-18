@@ -50,7 +50,7 @@
 ## 🔁 Real-time GitHub Contribution Glow (SVG overlay)
 <p align="center">
   <!-- GitHub contribution graph (default) -->
-  <img src="https://ghchart.rshah.org/SuhasJK" alt="contrib-graph" width="720" />
+  <img src="http://ghchart.rshah.org/2016rshah" alt="2016rshah's Github chart" />
 
   <!-- Animated glow overlay as data URI SVG: will render as an image and animate on GitHub -->
   <br/>
@@ -98,7 +98,7 @@
 ---
 
 ## 🧠 AI-generated Daily Learning Badges
-You can show auto-updating badges using a simple workflow (or update manually). For now I included animated SVG badges that look alive:
+You can show auto-updating badges using a simple workflow (or update manually). For now, I included animated SVG badges that look alive:
 
 <p align="center">
   <!-- Example animated SVG badge: learning streak (static number placeholder) -->
